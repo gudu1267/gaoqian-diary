@@ -9,7 +9,7 @@ import type { I18nConfig } from "./types/i18n"
 export const siteConfig: SiteConfig = {
     title: "搞钱日记", // Title of the site, used in the tab in the browser and in SEO
     subTitle: "Blog", // Subtitle of the site
-    rootSiteUrl: "https://momo.motues.top", // Root URL of the site, used for generating absolute URLs for SEO and social sharing
+    rootSiteUrl: "https://gaoqian-diary.1497916660.workers.dev", // Root URL of the site, used for generating absolute URLs for SEO and social sharing
 
     favicon: "/favicon/favicon.ico", // Path of the favicon, relative to the /public directory
 
